@@ -18,6 +18,7 @@ pypdf>=4.0.0
 
 ```bash
 pdfmergepro a.pdf b.pdf c.pdf
+pdfmerge ~/Documents/pdfs/*.pdf
 ```
 
 ### Custom Output Name
